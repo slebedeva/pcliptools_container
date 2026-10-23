@@ -56,6 +56,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
         python3-matplotlib \
         python3-matplotlib-venn \
         python3-pybedtools \
+        poppler-utils \
         rna-star \
         cutadapt \
         libssl3t64 \
