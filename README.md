@@ -4,6 +4,8 @@ Packages [paulahsan/pcliptools](https://github.com/paulahsan/pcliptools) (CC0-1.
 PAR-CLIP peak caller and analysis pipeline, plus STAR and cutadapt so `pcliptools-align`
 works too.
 
+Docker images are at e.g. crc1678inf/pcliptools:0.1 (image tag corresponds to repo tag).
+
 Author: Claude
 
 ## Build
